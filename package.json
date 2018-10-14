@@ -2,7 +2,7 @@
   "name": "komendatyra-moy",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://vitalikparshin.github.io/komendatura-moy.com/",
+  "homepage": "https://vitalikparshin.github.io/komendatura-moy.com/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
