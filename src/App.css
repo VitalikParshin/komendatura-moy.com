@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #004067;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,13 +20,20 @@
 
 .App-link {
   color: #61dafb;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h3 {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.ps {
+  font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+  font-style: italic;
+  width: 90%;
+  text-align: left;
+  padding-top: 30px;
 }

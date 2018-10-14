@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -7,18 +6,24 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Emblem_of_the_Ministry_of_Defence_of_Ukraine.svg/1024px-Emblem_of_the_Ministry_of_Defence_of_Ukraine.svg.png" className="App-logo" alt="logo" />
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="http://www.mil.gov.ua/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Шановнi вiйськовослужбовцi Комендатури Мiнiстерства обороны УКРАЇНИ
           </a>
+          <h3>
+            Вітаю Вас з Днем захисника України.
+            Бажаю вам довголіття, міцного здоров'я,
+            щастя, родинного благополуччя.
+            Нехай щастить вам на всіх перехрестях долі!!!
+          </h3>
+          <div className="ps">
+            PS: З повагою, Vitalii Parshin....
+          </div>
         </header>
       </div>
     );
