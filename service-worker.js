@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/komendatura-moy.com/precache-manifest.b6b85c31920d9ef63eea0fadc17bb3df.js"
+  "/komendatura-moy.com/precache-manifest.56c6f7b9af1776d85e8ddf64e196543f.js"
 );
 
 workbox.clientsClaim();
