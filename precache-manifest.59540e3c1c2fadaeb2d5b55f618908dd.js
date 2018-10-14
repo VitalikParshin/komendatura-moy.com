@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/komendatura-moy.com/static/css/main.f89b7b18.chunk.css"
   },
   {
-    "revision": "9ffae6cfe8426b01e20837e1ad5efcc5",
+    "revision": "4733457cd87aa8103426f16037afa80c",
     "url": "/komendatura-moy.com/index.html"
   }
 ];
